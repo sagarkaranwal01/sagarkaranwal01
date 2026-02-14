@@ -1,12 +1,10 @@
 # 💫 Hi 👋, I'm Sagar Karanwal
 **A passionate AI Engineer || Data Analytics || openai**
 
-Email Me 👉 ✉️ **sagarkaranwal05@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sagarkaranwal05@gmail.com** For Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently study at:** Lovely professional University
+- 🌱 **I’m currently learning:** Artificial Intelligence and Mahine Learning
 - 💬 **Ask me about:** Tech Support
 - 📫 **How to reach me:** sagarkaranwal05@gmail.com
 - 😄 **Pronouns:** Sagar karanwal
